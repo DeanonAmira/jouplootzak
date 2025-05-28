@@ -1,5 +1,5 @@
 # jouplootzak
-# ? Меня кличут мел
+#  Меня кличут мел
 
 ##  О себе 
 Senior Backend Developer - учусь и разрабатываю проекты, специализируюсь на Python, JavaScript
